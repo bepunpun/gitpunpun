@@ -3,3 +3,4 @@ hello world this my first project for my git formation to github so it just a si
 int main(){
 printf("hello world")
 }
+hello
